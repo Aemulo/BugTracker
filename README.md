@@ -1,6 +1,6 @@
 # Aemulo Bug Tracker
 
-Welcome to the Aemulo Bug Tracker! This is a public repository dedicated to managing bugs for our main project, Aemulo. This document will guide you through the process of submitting and managing issues. 
+Welcome to the Aemulo Bug Tracker! This is a public repository dedicated to managing bugs for my main project, Aemulo. This document will guide you through the process of submitting and managing issues. 
 
 ## Getting Started
 
